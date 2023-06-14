@@ -1,0 +1,13 @@
+# IDE sttings
+.idea
+.vscode
+
+# python virtualenv
+.venv
+.python-version
+
+# database
+db.sqlite3
+
+# secretes
+.env*
