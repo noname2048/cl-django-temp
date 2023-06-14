@@ -11,3 +11,8 @@ db.sqlite3
 
 # secretes
 .env*
+
+# python
+*.pot
+*.pyc
+__pycache__/
